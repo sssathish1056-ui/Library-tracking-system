@@ -1,0 +1,4 @@
+{
+  "name": "LibTrack Pro",
+  "description": "A comprehensive library management system featuring role-based access control (Admin/User), book inventory management, and issue/return tracking with persistent local storage."
+}
